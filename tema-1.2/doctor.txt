@@ -1,0 +1,36 @@
+[√] Flutter (Channel stable, 3.47.8, on Microsoft Windows [Versi¢n 10.0.26300.9711], locale es-EC) [537ms]
+    • Flutter version 3.47.8 on channel stable at C:\dev\flutter
+    • Upstream repository https://github.com/flutter/flutter.git
+    • Framework revision 737ba8f885 (3 days ago), 2026-10-22 21:37:31 -0700
+    • Engine revision cf636b1dfb
+    • Dart version 3.13.7
+    • DevTools version 2.60.0
+    • Feature flags: enable-web, enable-linux-desktop, enable-macos-desktop, enable-windows-desktop, enable-android, enable-ios, cli-animations, enable-native-assets, enable-record-use, enable-swift-package-manager, omit-legacy-version-file, enable-lldb-debugging, enable-uiscene-migration
+
+[√] Windows Version (Windows 11 or higher, 26H2, 2009) [968ms]
+
+[!] Android toolchain - develop for Android devices (Android SDK version 35.0.1) [422ms]
+    • Android SDK at C:\Users\1\AppData\Local\Android\sdk
+    • Emulator version 35.4.9.0 (build_id 13025442) (CL:N/A)
+    X Flutter requires Android SDK 36 and the Android BuildTools 28.0.3
+      To update the Android SDK visit https://flutter.dev/to/windows-android-setup for detailed instructions.
+    • All Android licenses accepted.
+
+[√] Chrome - develop for the web [221ms]
+    • Chrome at C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+
+[!] Visual Studio - develop Windows apps (Visual Studio Build Tools 2019 16.11.42) [219ms]
+    • Visual Studio at C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools
+    • Visual Studio Build Tools 2019 version 16.11.35425.106
+    X The current Visual Studio installation is incomplete.
+      Please use Visual Studio Installer to complete the installation or reinstall Visual Studio.
+
+[√] Connected device (3 available) [208ms]
+    • Windows (desktop) • windows • windows-x64    • Microsoft Windows [Versi¢n 10.0.26300.9711]
+    • Chrome (web)      • chrome  • web-javascript • Google Chrome 155.0.8059.86
+    • Edge (web)        • edge    • web-javascript • Microsoft Edge 156.0.4314.42
+
+[√] Network resources [371ms]
+    • All expected network resources are available.
+
+! Doctor found issues in 2 categories.
